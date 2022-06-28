@@ -1,0 +1,28 @@
+Metodo,Caudal,Electricidad,Uso de red,Uso del edificio,Calidad microbiologica,Calidad quimica,Turbidez
+Cloracion - Gas de cloro licuado,1000000,1,2,2,5,2,1
+Cloracion - Solucion de hipoclorito de sodio,1000000,2,2,2,5,2,1
+Cloracion - Granulos de hipoclorito de calcio,1000000,0,2,2,5,2,1
+Ozonizacion,1000000,1,1,1,4,3,1
+Desinfeccion por ebullicion,30,2,0,0,3,1,1
+Filtros rapidos por gravedad,8640,0,2,2,1,1,5
+Filtros gruesos,2880,0,2,2,1,1,5
+Filtros a presion,8640,1,2,1,1,1,5
+Filtros lentos de arena,28.8,0,2,2,4,2,3
+Filtros rapidos de arena,191520,1,2,2,2,2,5
+Tanque de almacenamiento,8640,1,2,1,2,1,2
+Filtracion de ribera,0,1,2,1,4,2,3
+Aireacion,8640,0,2,1,1,3,2
+Coagulacion quimica,1000000,0,2,1,3,3,3
+Adsorcion con carbon activado - Grifo,720,0,1,0,1,4,4
+Adsorcion con carbon activado - Jarra,400,0,0,0,1,4,4
+Filtros ceramicos - Olla,72,0,0,0,3,2,4
+Filtros ceramicos - Vela,28.8,0,0,0,3,2,4
+Filtros de cal o descalcificadores,720,1,1,0,1,2,3
+Filtracion por destilacion,46,1,0,0,4,4,4
+Filtros de membranas,360,1,2,1,4,3,4
+Filtracion por osmosis inversa,720,1,2,1,5,3,4
+Tratamiento con rayos UV,34560,1,1,1,4,2,1
+Metodo SODIS,20,0,0,0,3,1,2
+Filtros de sedimentos,39600,0,2,0,3,2,4
+Filtracion con fibras y telas,828000,0,2,0,2,1,4
+Almacenamiento y decantacion,20,0,0,0,3,1,4

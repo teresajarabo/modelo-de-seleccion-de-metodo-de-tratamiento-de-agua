@@ -1,0 +1,28 @@
+Metodo;Caudal;Electricidad;Uso de red;Uso del edificio;Bacterias;Químicas;Turbiedad
+Cloración - Gas de cloro licuado;1000000;1;2;2;5;2;1
+Cloración - Solución de hipoclorito de sodio;1000000;2;2;2;5;2;1
+Cloración - Gránulos de hipoclorito de calcio;1000000;0;2;2;5;2;1
+Ozonización;1000000;1;1;1;4;2;1
+Desinfección por ebullición;80;2;0;0;2;1;1
+Filtros rápidos por gravedad;360;0;2;2;1;1;5
+Filtros gruesos;1440;0;2;2;1;1;4
+Filtros a presión;360;1;2;1;1;1;5
+Filtros lentos de arena;14,4;0;2;2;4;2;3
+Filtros rápidos de arena;144000;1;2;2;1;1;5
+Tanque de almacenamiento;80;1;2;1;2;1;2
+Filtración de ribera;;1;2;1;4;1;3
+Aireación;360;0;2;1;1;2;1
+Coagulación química;1000000;0;2;1;2;2;2
+Adsorción con carbón activado - Grifo;360;0;1;0;1;4;4
+Adsorción con carbón activado - Jarra;80;0;0;0;1;4;4
+Filtros cerámicos - Olla;36;0;0;0;3;1;3
+Filtros cerámicos - Vela;14,4;0;0;0;3;1;3
+Filtros de cal o descalcificadores;360;1;1;0;1;1;2
+Filtración por destilación;80;2;0;0;4;4;4
+Filtros de membranas;180;1;2;1;2;2;1
+Filtración por ósmosis inversa;360;1;2;1;5;2;4
+Tratamiento con rayos UV;32400;1;1;1;4;1;1
+Método SODIS;80;0;0;0;3;1;1
+Filtros de sedimentos;28800;0;2;0;3;1;4
+Filtración con fibras y telas;720000;0;2;0;1;1;4
+Almacenamiento y decantación;80;0;0;0;3;1;3
