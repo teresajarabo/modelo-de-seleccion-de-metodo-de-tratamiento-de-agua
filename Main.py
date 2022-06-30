@@ -31,7 +31,7 @@ with dataset:
     st.subheader('Base de datos del modelo de selección')
     st.table(df.head().style.format(subset=['Caudal'], formatter="{:.2f}"))
     
-    st.caption('El caudal está en litros por minuto')
+    st.caption('El caudal está en litros por día')
 
     st.markdown('Los valores mostrados en la tabla son el resultado del análisis de los distintos métodos de tratamiento.')
 
@@ -242,7 +242,7 @@ with seleccion_modelo:
 
     st.markdown('Dados los parámetros de entrada introducidos por el usuario, los modelos de selección que permitirán obtener un agua potable de calidad son:')
     st.table(new_df.style.format(subset=['Caudal'], formatter="{:.2f}"))
-    st.caption('El caudal está en litros por minuto')
+    st.caption('El caudal está en litros por día')
 
     
 with ordenar_resultados:
@@ -270,7 +270,7 @@ with ordenar_resultados:
     st.markdown('*Tabla ordenada:*')
     new_tabla.sort_values(ordenar)
     st.table(new_tabla.sort_values(ordenar, ascending=True).style.format(subset=['Caudal'], formatter="{:.2f}"))
-    st.caption('El caudal está en litros por minuto')
+    st.caption('El caudal está en litros por día')
 
     if pretratamiento:
         st.markdown('* Ha seleccionado incluir un **pretratamiento** por lo que debe instalar un **filtro de arena** o un **filtro de gravedad**.')
