@@ -241,7 +241,7 @@ with seleccion_modelo:
     if pH_agua == 'Basico':
         new_df = pd.concat([new_df, df.loc[df['Metodo'] == 'Filtros de cal o descalcificadores']])
 
-    st.markdown('Dados los parámetros de entrada introducidos por el usuario, los modelos de selección que permitirán obtener un agua potable de calidad son:')
+    st.markdown('Dados los parámetros de entrada introducidos por el usuario, los *métodos de tratamiento* que permitirán obtener un agua potable de calidad son:')
     st.table(new_df.style.format(subset=['Caudal'], formatter="{:.2f}"))
     st.caption('El caudal está en litros por día')
 
